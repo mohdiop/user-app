@@ -7,6 +7,6 @@
 <title>Home</title>
 </head>
 <body>
-	<a href="jsp/userForm.jsp">Go to the form</a>
+	<a href="jsp/userForm.jsp">Allez au formulaire</a>
 </body>
 </html>
